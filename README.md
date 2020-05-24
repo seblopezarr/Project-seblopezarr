@@ -1,6 +1,6 @@
-# UNIX WORKBENCH ASSIGNMENT
-*by SEBASTIÁN LÓPEZ ARROYAVE*
+# THE UNIX WORKBENCH PROJECT
+* **By:** SEBASTIÁN LÓPEZ ARROYAVE*
 
-**Date**: sáb 23 may 2020 23:13:17 -05
+**Date**: sáb 23 may 2020 23:27:43 -05
 
-**Number of lines in guessingame.sh:** 39
+**Number of lines in guessingame.sh**: 39

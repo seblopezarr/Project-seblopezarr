@@ -1,7 +1,7 @@
 all: README.md
 
 README.md: guessingame.sh
-	echo "# UNIX WORKBENCH ASSIGNMENT" > README.md
+	echo "# THE UNIX WORKBENCH PROJECT" > README.md
 	echo "* **By:** SEBASTIÁN LÓPEZ ARROYAVE*" >> README.md
 	echo -n "\n**Date**: " >> README.md
 	date >> README.md
